@@ -1,0 +1,1 @@
+'java -jar D:\JenkinsStartup\jenkins.war'
