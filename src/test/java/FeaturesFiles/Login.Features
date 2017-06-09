@@ -1,0 +1,21 @@
+Feature: Login
+
+  Scenario Outline: Login As a user
+
+    And I click on Search Text Box
+
+
+
+
+
+    Examples:
+      | values | Laptop |
+      | ₹500   | Laptop |
+
+
+  Scenario Outline: Location Check
+
+
+    Examples:
+      | values | Laptop |
+      | ₹500   | Bangalor |
